@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Página Inicial 18h15</h1>;
+  return <h1>Boo 👻</h1>;
 }
 
 export default Home;
