@@ -1,4 +1,3 @@
 # tabnews
-repo curso.dev
 
-teste
+repo curso.dev
